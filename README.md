@@ -1,4 +1,8 @@
 # Hola, mi nombre es Lautaro Bautista
+<div align="center">
+  <img src="./lautaro_github_profile.jpeg" width="50%" alt="Mi imagen de perfil">
+</div>
+
 ## Sobre mí
 Proximamente...
 
