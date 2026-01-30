@@ -23,7 +23,13 @@ Proximamente...
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎓 Educación 
-Soy estudiante en ingeniería de Sistemas de Información de la <a href="https://www.frc.utn.edu.ar/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: yellow;">Facultad Regional de Córdoba de la Universidad Tecnológica Nacional</a>
+Soy estudiante en ingeniería de Sistemas de Información de:
+
+[![UTN FRC](https://img.shields.io/badge/UTN_FRC-Facultad_Regional_Córdoba-white?style=for-the-badge&logo=university&logoColor=black)](https://www.frc.utn.edu.ar/)
+
+Y tengo certificado en Python de:
+
+[![UTN FRBA](https://img.shields.io/badge/UTN_FRBA-Facultad_Regional_de_Buenos_Aires-white?style=for-the-badge&logo=university&logoColor=black)](https://validator.centrodeelearning.com/validator/p7j4OgGmyZ)
 
 ## Proyectos
 Proximamente...
